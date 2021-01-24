@@ -57,11 +57,6 @@ function processCensor(e) {
         if (isSkip)
           continue;
 
-        // console.log(wordList[j]);
-        // console.log(row);
-        // console.log(repWord);
-        console.log(mTxt);
-
         let txtL = txt.length;
         let mTxtInd = txt.indexOf(mTxt);
 
