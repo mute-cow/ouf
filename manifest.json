@@ -2,9 +2,9 @@
   "manifest_version": 2,
   "name": "Ouf",
   "description": "Remove censorship on The Patriots.Asia",
-  "version": "1.0.0",
+  "version": "1.0.0.0",
   "author": "mute-cow",
-  "icon": {
+  "icons": {
     "48": "icon/icon.png",
     "96": "icon/icon_96.png"
   },
