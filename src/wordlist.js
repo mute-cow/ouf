@@ -57,5 +57,6 @@ const exWordList = [
   "sultan-\\w+",
   "sheikh-\\w+",
   "\\d+-an",
-  "anti-\\w+"
+  "anti-\\w+",
+  "al-\\w+"
 ];

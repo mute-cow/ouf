@@ -63,6 +63,8 @@ function processCensor(e) {
         let preTxt = txt.substring(0, mTxtInd);
         let appTxt = txt.substring(mTxtInd + mTxt.length, txtL);
 
+        console.log(repWord);
+
         txt = preTxt + repWord + appTxt;
       }
     }
